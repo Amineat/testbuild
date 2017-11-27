@@ -1,4 +1,4 @@
 <?php
-$welcome= "Hello everyone for comming";
+$welcome= "Hello everyone for comming and thanks";
 echo $welcome
 ?>
